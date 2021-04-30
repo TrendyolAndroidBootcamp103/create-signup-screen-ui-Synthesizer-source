@@ -10,8 +10,8 @@
 - Unit test developed
 
 ### Screenshots
-![alt text](https://github.com/TrendyolAndroidBootcamp103/create-signup-screen-ui-Synthesizer-source/blob/master/ss/1.png?raw=true)
-![alt text](https://github.com/TrendyolAndroidBootcamp103/create-signup-screen-ui-Synthesizer-source/blob/master/ss/2.png?raw=true)
-![alt text](https://github.com/TrendyolAndroidBootcamp103/create-signup-screen-ui-Synthesizer-source/blob/master/ss/3.png?raw=true)
-![alt text](https://github.com/TrendyolAndroidBootcamp103/create-signup-screen-ui-Synthesizer-source/blob/master/ss/4.png?raw=true)
-![alt text](https://github.com/TrendyolAndroidBootcamp103/create-signup-screen-ui-Synthesizer-source/blob/master/ss/5.png?raw=true)
+<img src="ss/1.png"  width="45%"/>
+<img src="ss/2.png"  width="45%"/>
+<img src="ss/3.png"  width="45%"/>
+<img src="ss/4.png"  width="45%"/>
+<img src="ss/5.png"  width="45%"/>
